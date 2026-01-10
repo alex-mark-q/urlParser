@@ -1,6 +1,6 @@
 <?php
 
-namespace Otus\UrlHelper;
+namespace Url\Helper;
 
 class UrlHelper
 {
