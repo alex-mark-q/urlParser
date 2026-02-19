@@ -12,5 +12,7 @@
             "name": "otus"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.3"
+    }
 }
